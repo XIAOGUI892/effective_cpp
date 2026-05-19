@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66CEC99A-0BF5-4A15-8AF0-A5E316708CDA}|effective_cpp_tips06\\effective_cpp_tips06.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips06\\effective_cpp_tips06\\tips06_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{66CEC99A-0BF5-4A15-8AF0-A5E316708CDA}|effective_cpp_tips06\\effective_cpp_tips06.vcxproj|solutionrelative:effective_cpp_tips06\\tips06_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\thread||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "threadpool.h",
+              "DocumentMoniker": "D:\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\threadpool.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\threadpool.h",
+              "ToolTip": "D:\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\threadpool.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\threadpool.h",
+              "ViewState": "AgIAAMwAAAAAAAAAAADwv98AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-12T05:06:25.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "threadpool.h",
+              "DocumentMoniker": "D:\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h",
+              "ToolTip": "D:\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h",
+              "ViewState": "AgIAACEBAAAAAAAAAAAAABkBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-12T05:05:27.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "thread",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\thread",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\thread",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAJ8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-10T10:30:29.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tips06_01.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips06\\effective_cpp_tips06\\tips06_01.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips06\\tips06_01.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips06\\effective_cpp_tips06\\tips06_01.cpp",
+              "RelativeToolTip": "effective_cpp_tips06\\tips06_01.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-10T03:23:05.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A2F034-5193-4E51-BA16-B601BE22891D}|effective_cpp_tips39\\effective_cpp_tips39.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A2F034-5193-4E51-BA16-B601BE22891D}|effective_cpp_tips39\\effective_cpp_tips39.vcxproj|solutionrelative:effective_cpp_tips39\\tips39_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A2F034-5193-4E51-BA16-B601BE22891D}|effective_cpp_tips39\\effective_cpp_tips39.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A2F034-5193-4E51-BA16-B601BE22891D}|effective_cpp_tips39\\effective_cpp_tips39.vcxproj|solutionrelative:effective_cpp_tips39\\tips39_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A2F034-5193-4E51-BA16-B601BE22891D}|effective_cpp_tips39\\effective_cpp_tips39.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09A2F034-5193-4E51-BA16-B601BE22891D}|effective_cpp_tips39\\effective_cpp_tips39.vcxproj|solutionrelative:effective_cpp_tips39\\tips39_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tips39_03.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_03.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips39\\tips39_03.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_03.cpp",
+              "RelativeToolTip": "effective_cpp_tips39\\tips39_03.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-09T07:56:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tips39_02.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_02.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips39\\tips39_02.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_02.cpp",
+              "RelativeToolTip": "effective_cpp_tips39\\tips39_02.cpp",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-09T07:36:59.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tips39_01.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_01.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips39\\tips39_01.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips39\\effective_cpp_tips39\\tips39_01.cpp",
+              "RelativeToolTip": "effective_cpp_tips39\\tips39_01.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-09T07:13:36.163Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

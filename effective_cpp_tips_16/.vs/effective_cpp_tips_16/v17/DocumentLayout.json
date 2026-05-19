@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13FA5C12-313F-481E-9D5C-5A4CF450F24F}|effective_cpp_tips_16\\effective_cpp_tips_16.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_16\\effective_cpp_tips_16\\tips16_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13FA5C12-313F-481E-9D5C-5A4CF450F24F}|effective_cpp_tips_16\\effective_cpp_tips_16.vcxproj|solutionrelative:effective_cpp_tips_16\\tips16_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tips16_01.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_16\\effective_cpp_tips_16\\tips16_01.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips_16\\tips16_01.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_16\\effective_cpp_tips_16\\tips16_01.cpp",
+              "RelativeToolTip": "effective_cpp_tips_16\\tips16_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-15T00:49:35.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

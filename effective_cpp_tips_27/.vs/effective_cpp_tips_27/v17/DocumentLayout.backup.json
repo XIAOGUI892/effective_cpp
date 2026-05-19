@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|solutionrelative:effective_cpp_tips_27\\tips_27_05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|solutionrelative:effective_cpp_tips_27\\tips_27_04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|solutionrelative:effective_cpp_tips_27\\tips_27_03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|solutionrelative:effective_cpp_tips_27\\tips_27_01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8B09A2E-A812-458E-BC18-6D91486317F3}|effective_cpp_tips_27\\effective_cpp_tips_27.vcxproj|solutionrelative:effective_cpp_tips_27\\tips_27_02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tips_27_05.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_05.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips_27\\tips_27_05.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_05.cpp",
+              "RelativeToolTip": "effective_cpp_tips_27\\tips_27_05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T10:51:34.913Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "tips_27_04.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_04.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips_27\\tips_27_04.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_04.cpp",
+              "RelativeToolTip": "effective_cpp_tips_27\\tips_27_04.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T10:43:07.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tips_27_03.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_03.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips_27\\tips_27_03.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_03.cpp",
+              "RelativeToolTip": "effective_cpp_tips_27\\tips_27_03.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T10:20:43.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tips_27_02.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_02.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips_27\\tips_27_02.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_02.cpp",
+              "RelativeToolTip": "effective_cpp_tips_27\\tips_27_02.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T06:58:38.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tips_27_01.cpp",
+              "DocumentMoniker": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_01.cpp",
+              "RelativeDocumentMoniker": "effective_cpp_tips_27\\tips_27_01.cpp",
+              "ToolTip": "D:\\Users\\HONOR\\source\\repos\\effective_cpp_tips_27\\effective_cpp_tips_27\\tips_27_01.cpp",
+              "RelativeToolTip": "effective_cpp_tips_27\\tips_27_01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-27T06:48:23.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
