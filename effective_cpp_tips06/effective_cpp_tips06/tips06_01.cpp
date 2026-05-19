@@ -1,3 +1,4 @@
+#include<thread>
 class Myclass1 {
 private:
 	Myclass1(const Myclass1&);
